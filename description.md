@@ -1,0 +1,1 @@
+Llegó el momento de poner a prueba todo lo que hemos aprendido sobre Python. En este desafío, deberás resolver una serie de ejercicios que integran los distintos temas que hemos cubierto en las lecciones anteriores. ¡Comencemos!
